@@ -197,7 +197,7 @@ If you find this repository useful in your research, please consider giving a st
 @inproceedings{liu2026pointtpa,
         title={PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding},
         author={Liu, Siyuan and Zheng, Chaoqun and Zhou, Xin and Feng, Tianrui and Liang, Dingkang and Bai, Xiang},
-        booktitle={CVPR},
+        booktitle={Proc. of IEEE Intl. Conf. on Computer Vision and Pattern Recognition},
         year={2026}
 }
 ```
