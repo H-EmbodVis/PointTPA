@@ -3,7 +3,7 @@
     for 3D Scene Understanding </h1>
 
 
-  <a href="https://example.com/your-paper-link/"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=Arxiv"></a> 
+  <a href="https://arxiv.org/abs/2604.04933"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=Arxiv"></a> 
   <a href="https://this-yq.github.io/PointTPA/"><img src="https://img.shields.io/badge/Homepage-project-orange.svg?logo=googlehome"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"></a>
 
